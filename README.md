@@ -23,7 +23,7 @@ This **README.md** is designed to provide a professional overview of your **Song
 
 Check out the extension in action here:
 
-> **[Watch the Song AI Explorer Demo on YouTube](https://www.google.com/search?q=https://youtu.be/4sr02NGxJeQ)**
+> **[Watch the Song AI Explorer Demo on YouTube](https://youtu.be/4sr02NGxJeQ)**
 
 ## 🛠️ Installation
 
